@@ -1,0 +1,9 @@
+.btn.btn-secondary{
+  border-color: #aaaaaa;
+  background-color: #aaaaaa;
+}
+
+.btn.btn-secondary.active{
+  border-color: #333333;
+  background-color: #333333;
+}
